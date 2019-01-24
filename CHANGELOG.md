@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.29.0+rev2
+## (2019-01-24)
+
+* Add patch with pixelformat descriptions [Niclas Moeslund Overby]
+
 # v2.29.0+rev1
 ## (2018-12-20)
 
